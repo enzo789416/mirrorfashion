@@ -1,5 +1,5 @@
 # Mirrorfashion
-### Caracteristicas do sistema: 
+### Features: 
 - PHP 7.1
 - Mysql 8.0
 - Foi utilizado o SGBD PHPMyadmin, mas nada impede o sistema ser gerenciado por outro
